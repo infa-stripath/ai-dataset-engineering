@@ -1,0 +1,14 @@
+{
+  "dataset_name": "customer_support_evaluation",
+  "dataset_version": "1.0.0",
+  "domain": "customer_support",
+  "record_count": 100,
+  "created_at": "2026-10-14T08:57:37.975187+00:00",
+  "generation_models": [
+    "gpt-4.1-mini"
+  ],
+  "validation_status": "PASS",
+  "validation_report": "output\\validation_report.json",
+  "approval_status": "pending_human_review",
+  "note": "LLM-generated cases require human review before use as a trusted gold evaluation set."
+}
