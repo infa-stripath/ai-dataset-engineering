@@ -1,0 +1,11 @@
+test_type,count
+negative,11
+paraphrase,10
+incomplete,10
+edge_case,10
+multi_intent,10
+adversarial,10
+typo,10
+context_conflict,10
+boundary_condition,10
+ambiguous,9

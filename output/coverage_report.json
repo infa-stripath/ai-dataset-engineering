@@ -1,0 +1,45 @@
+{
+  "analyzed_at": "2026-10-14T08:57:06.045578+00:00",
+  "dataset_version": "1.0.0",
+  "record_count": 100,
+  "unique_inputs": 100,
+  "by_domain": {
+    "customer_support": 100
+  },
+  "by_intent": {
+    "product_compatibility": 10,
+    "ambiguous_request": 10,
+    "order_status": 9,
+    "refund_policy": 9,
+    "account_access": 9,
+    "delivery_change": 9,
+    "billing_question": 9,
+    "complaint": 9,
+    "privacy_request": 9,
+    "policy_override": 9,
+    "multi_intent": 8
+  },
+  "by_test_type": {
+    "negative": 11,
+    "paraphrase": 10,
+    "incomplete": 10,
+    "edge_case": 10,
+    "multi_intent": 10,
+    "adversarial": 10,
+    "typo": 10,
+    "context_conflict": 10,
+    "boundary_condition": 10,
+    "ambiguous": 9
+  },
+  "by_risk_level": {
+    "medium": 51,
+    "high": 30,
+    "critical": 13,
+    "low": 6
+  },
+  "by_review_status": {
+    "pending": 100
+  },
+  "high_or_critical_cases": 43,
+  "pending_review_cases": 100
+}

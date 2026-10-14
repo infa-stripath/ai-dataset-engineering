@@ -1,0 +1,21 @@
+{
+  "dataset_path": "output\\synthetic_dataset.csv",
+  "validated_at": "2026-10-14T08:56:37.340849+00:00",
+  "record_count": 100,
+  "unique_case_ids": 100,
+  "test_types_present": [
+    "adversarial",
+    "ambiguous",
+    "boundary_condition",
+    "context_conflict",
+    "edge_case",
+    "incomplete",
+    "multi_intent",
+    "negative",
+    "paraphrase",
+    "typo"
+  ],
+  "errors": [],
+  "warnings": [],
+  "status": "PASS"
+}

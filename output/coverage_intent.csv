@@ -1,0 +1,12 @@
+intent,count
+product_compatibility,10
+ambiguous_request,10
+order_status,9
+refund_policy,9
+account_access,9
+delivery_change,9
+billing_question,9
+complaint,9
+privacy_request,9
+policy_override,9
+multi_intent,8
